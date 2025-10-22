@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "nombre": "Dr. Daniela Luna",
+    "especialidad": "Pediatría",
+    "telefono": "+54 11 4289-5042",
+    "email": "daniela.luna@hospitalcentral.com",
+    "direccion": "Av. Molina 7111, Buenos Aires",
+    "matricula": "MP42418"
+  },
+  {
+    "id": 2,
+    "nombre": "Dr. Camila Campos",
+    "especialidad": "Oftalmología",
+    "telefono": "+54 11 4485-7756",
+    "email": "camila.campos@hospitalcentral.com",
+    "direccion": "Av. Díaz 5761, Buenos Aires",
+    "matricula": "MP93515"
+  },
+  {
+    "id": 3,
+    "nombre": "Dr. Juan Bravo",
+    "especialidad": "Gastroenterología",
+    "telefono": "+54 11 4217-2855",
+    "email": "juan.bravo@hospitalcentral.com",
+    "direccion": "Av. Moreno 8515, Buenos Aires",
+    "matricula": "MP52524"
+  },
+  {
+    "id": 4,
+    "nombre": "Dr. Elena Gómez",
+    "especialidad": "Cardiología",
+    "telefono": "+54 11 4542-1489",
+    "email": "elena.gómez@hospitalcentral.com",
+    "direccion": "Av. Castro 7801, Buenos Aires",
+    "matricula": "MP38369"
+  },
+  {
+    "id": 5,
+    "nombre": "Dr. Jorge Castro",
+    "especialidad": "Pediatría",
+    "telefono": "+54 11 4065-6009",
+    "email": "jorge.castro@hospitalcentral.com",
+    "direccion": "Av. Molina 6151, Buenos Aires",
+    "matricula": "MP41026"
+  },
+  {
+    "id": 6,
+    "nombre": "Dr. Patricia Rodríguez",
+    "especialidad": "Oncología",
+    "telefono": "+54 11 4909-1051",
+    "email": "patricia.rodríguez@hospitalcentral.com",
+    "direccion": "Av. Delgado 9302, Buenos Aires",
+    "matricula": "MP15848"
+  },
+  {
+    "id": 7,
+    "nombre": "Dr. Patricia Campos",
+    "especialidad": "Oftalmología",
+    "telefono": "+54 11 4941-5455",
+    "email": "patricia.campos@hospitalcentral.com",
+    "direccion": "Av. Ruiz 1447, Buenos Aires",
+    "matricula": "MP74749"
+  },
+  {
+    "id": 8,
+    "nombre": "Dr. Paula Bravo",
+    "especialidad": "Reumatología",
+    "telefono": "+54 11 4289-2076",
+    "email": "paula.bravo@hospitalcentral.com",
+    "direccion": "Av. Acosta 4870, Buenos Aires",
+    "matricula": "MP12896"
+  },
+  {
+    "id": 9,
+    "nombre": "Dr. Martina Cabrera",
+    "especialidad": "Hematología",
+    "telefono": "+54 11 4162-8305",
+    "email": "martina.cabrera@hospitalcentral.com",
+    "direccion": "Av. Fernández 8220, Buenos Aires",
+    "matricula": "MP88541"
+  },
+  {
+    "id": 10,
+    "nombre": "Dr. Florencia Herrera",
+    "especialidad": "Endocrinología",
+    "telefono": "+54 11 4378-2073",
+    "email": "florencia.herrera@hospitalcentral.com",
+    "direccion": "Av. Cabrera 4271, Buenos Aires",
+    "matricula": "MP39683"
+  },
+  {
+    "id": 11,
+    "nombre": "Dr. Carlos Fernández",
+    "especialidad": "Hematología",
+    "telefono": "+54 11 4753-7114",
+    "email": "carlos.fernández@hospitalcentral.com",
+    "direccion": "Av. Blanco 8914, Buenos Aires",
+    "matricula": "MP53021"
+  },
+  {
+    "id": 12,
+    "nombre": "Dr. Valentina Delgado",
+    "especialidad": "Dermatología",
+    "telefono": "+54 11 4644-4139",
+    "email": "valentina.delgado@hospitalcentral.com",
+    "direccion": "Av. Romero 9711, Buenos Aires",
+    "matricula": "MP72109"
+  },
+  {
+    "id": 13,
+    "nombre": "Dr. Miguel Bravo",
+    "especialidad": "Urología",
+    "telefono": "+54 11 4098-6435",
+    "email": "miguel.bravo@hospitalcentral.com",
+    "direccion": "Av. Domínguez 5979, Buenos Aires",
+    "matricula": "MP57413"
+  },
+  {
+    "id": 14,
+    "nombre": "Dr. Luciano Campos",
+    "especialidad": "Reumatología",
+    "telefono": "+54 11 4157-8252",
+    "email": "luciano.campos@hospitalcentral.com",
+    "direccion": "Av. Martínez 9488, Buenos Aires",
+    "matricula": "MP36539"
+  },
+  {
+    "id": 15,
+    "nombre": "Dr. Pedro Ortega",
+    "especialidad": "Cirugía General",
+    "telefono": "+54 11 4425-5412",
+    "email": "pedro.ortega@hospitalcentral.com",
+    "direccion": "Av. Figueroa 1753, Buenos Aires",
+    "matricula": "MP27039"
+  },
+  {
+    "id": 16,
+    "nombre": "Dr. Hernán Acosta",
+    "especialidad": "Gastroenterología",
+    "telefono": "+54 11 4296-9134",
+    "email": "hernán.acosta@hospitalcentral.com",
+    "direccion": "Av. Núñez 7842, Buenos Aires",
+    "matricula": "MP95278"
+  },
+  {
+    "id": 17,
+    "nombre": "Dr. Rocío Campos",
+    "especialidad": "Oftalmología",
+    "telefono": "+54 11 4405-8551",
+    "email": "rocío.campos@hospitalcentral.com",
+    "direccion": "Av. Fernández 1793, Buenos Aires",
+    "matricula": "MP31108"
+  },
+  {
+    "id": 18,
+    "nombre": "Dr. Ricardo Benítez",
+    "especialidad": "Cirugía General",
+    "telefono": "+54 11 4414-9269",
+    "email": "ricardo.benítez@hospitalcentral.com",
+    "direccion": "Av. Ortega 7288, Buenos Aires",
+    "matricula": "MP83246"
+  },
+  {
+    "id": 19,
+    "nombre": "Dr. Liliana Ortega",
+    "especialidad": "Otorrinolaringología",
+    "telefono": "+54 11 4480-3234",
+    "email": "liliana.ortega@hospitalcentral.com",
+    "direccion": "Av. Martínez 8401, Buenos Aires",
+    "matricula": "MP83323"
+  },
+  {
+    "id": 20,
+    "nombre": "Dr. Fernanda Silva",
+    "especialidad": "Oftalmología",
+    "telefono": "+54 11 4703-1829",
+    "email": "fernanda.silva@hospitalcentral.com",
+    "direccion": "Av. Castro 2322, Buenos Aires",
+    "matricula": "MP57341"
+  },
+  {
+    "id": 21,
+    "nombre": "Dr. Juan Sosa",
+    "especialidad": "Nefrología",
+    "telefono": "+54 11 4571-3287",
+    "email": "juan.sosa@hospitalcentral.com",
+    "direccion": "Av. Navarro 1534, Buenos Aires",
+    "matricula": "MP88206"
+  },
+  {
+    "id": 22,
+    "nombre": "Dr. Guillermo Torres",
+    "especialidad": "Reumatología",
+    "telefono": "+54 11 4832-5173",
+    "email": "guillermo.torres@hospitalcentral.com",
+    "direccion": "Av. Torres 4454, Buenos Aires",
+    "matricula": "MP52764"
+  },
+  {
+    "id": 23,
+    "nombre": "Dr. Miguel Núñez",
+    "especialidad": "Infectología",
+    "telefono": "+54 11 4021-2789",
+    "email": "miguel.núñez@hospitalcentral.com",
+    "direccion": "Av. Vega 5680, Buenos Aires",
+    "matricula": "MP50720"
+  },
+  {
+    "id": 24,
+    "nombre": "Dr. Ana Cabrera",
+    "especialidad": "Nefrología",
+    "telefono": "+54 11 4355-7332",
+    "email": "ana.cabrera@hospitalcentral.com",
+    "direccion": "Av. Molina 4436, Buenos Aires",
+    "matricula": "MP57348"
+  },
+  {
+    "id": 25,
+    "nombre": "Dr. Iván Romero",
+    "especialidad": "Alergología",
+    "telefono": "+54 11 4078-4396",
+    "email": "iván.romero@hospitalcentral.com",
+    "direccion": "Av. Ortega 609, Buenos Aires",
+    "matricula": "MP51258"
+  },
+  {
+    "id": 26,
+    "nombre": "Dr. Verónica Benítez",
+    "especialidad": "Psiquiatría",
+    "telefono": "+54 11 4217-2260",
+    "email": "verónica.benítez@hospitalcentral.com",
+    "direccion": "Av. Castro 2877, Buenos Aires",
+    "matricula": "MP41968"
+  },
+  {
+    "id": 27,
+    "nombre": "Dr. Martina Blanco",
+    "especialidad": "Traumatología",
+    "telefono": "+54 11 4184-6674",
+    "email": "martina.blanco@hospitalcentral.com",
+    "direccion": "Av. Ortega 1223, Buenos Aires",
+    "matricula": "MP93698"
+  },
+  {
+    "id": 28,
+    "nombre": "Dr. Francisco Martínez",
+    "especialidad": "Reumatología",
+    "telefono": "+54 11 4070-1251",
+    "email": "francisco.martínez@hospitalcentral.com",
+    "direccion": "Av. Navarro 4825, Buenos Aires",
+    "matricula": "MP94602"
+  },
+  {
+    "id": 29,
+    "nombre": "Dr. José Sánchez",
+    "especialidad": "Oncología",
+    "telefono": "+54 11 4355-7460",
+    "email": "josé.sánchez@hospitalcentral.com",
+    "direccion": "Av. Medina 7097, Buenos Aires",
+    "matricula": "MP67070"
+  },
+  {
+    "id": 30,
+    "nombre": "Dr. Sebastián Acosta",
+    "especialidad": "Reumatología",
+    "telefono": "+54 11 4865-5375",
+    "email": "sebastián.acosta@hospitalcentral.com",
+    "direccion": "Av. Delgado 806, Buenos Aires",
+    "matricula": "MP68212"
+  },
+  {
+    "id": 31,
+    "nombre": "Dr. Cecilia Gutiérrez",
+    "especialidad": "Oftalmología",
+    "telefono": "+54 11 4913-5494",
+    "email": "cecilia.gutiérrez@hospitalcentral.com",
+    "direccion": "Av. Pérez 9992, Buenos Aires",
+    "matricula": "MP35322"
+  },
+  {
+    "id": 32,
+    "nombre": "Dr. Fernanda Núñez",
+    "especialidad": "Cirugía General",
+    "telefono": "+54 11 4940-8624",
+    "email": "fernanda.núñez@hospitalcentral.com",
+    "direccion": "Av. Bravo 3329, Buenos Aires",
+    "matricula": "MP26944"
+  },
+  {
+    "id": 33,
+    "nombre": "Dr. Valentina Herrera",
+    "especialidad": "Cirugía General",
+    "telefono": "+54 11 4108-8213",
+    "email": "valentina.herrera@hospitalcentral.com",
+    "direccion": "Av. Martínez 6653, Buenos Aires",
+    "matricula": "MP92958"
+  },
+  {
+    "id": 34,
+    "nombre": "Dr. Liliana Medina",
+    "especialidad": "Psiquiatría",
+    "telefono": "+54 11 4973-8915",
+    "email": "liliana.medina@hospitalcentral.com",
+    "direccion": "Av. Cabrera 4453, Buenos Aires",
+    "matricula": "MP10624"
+  },
+  {
+    "id": 35,
+    "nombre": "Dr. Valentina Silva",
+    "especialidad": "Hematología",
+    "telefono": "+54 11 4251-1523",
+    "email": "valentina.silva@hospitalcentral.com",
+    "direccion": "Av. Acosta 388, Buenos Aires",
+    "matricula": "MP32304"
+  },
+  {
+    "id": 36,
+    "nombre": "Dr. Pedro López",
+    "especialidad": "Pediatría",
+    "telefono": "+54 11 4349-2750",
+    "email": "pedro.lópez@hospitalcentral.com",
+    "direccion": "Av. Medina 3475, Buenos Aires",
+    "matricula": "MP73302"
+  },
+  {
+    "id": 37,
+    "nombre": "Dr. Tomás Figueroa",
+    "especialidad": "Oftalmología",
+    "telefono": "+54 11 4055-3151",
+    "email": "tomás.figueroa@hospitalcentral.com",
+    "direccion": "Av. Campos 2562, Buenos Aires",
+    "matricula": "MP56900"
+  },
+  {
+    "id": 38,
+    "nombre": "Dr. Lucía Fernández",
+    "especialidad": "Endocrinología",
+    "telefono": "+54 11 4409-5212",
+    "email": "lucía.fernández@hospitalcentral.com",
+    "direccion": "Av. Delgado 3290, Buenos Aires",
+    "matricula": "MP86041"
+  },
+  {
+    "id": 39,
+    "nombre": "Dr. Ricardo Martínez",
+    "especialidad": "Cirugía General",
+    "telefono": "+54 11 4315-7724",
+    "email": "ricardo.martínez@hospitalcentral.com",
+    "direccion": "Av. Pérez 1092, Buenos Aires",
+    "matricula": "MP48661"
+  },
+  {
+    "id": 40,
+    "nombre": "Dr. Leandro Acosta",
+    "especialidad": "Infectología",
+    "telefono": "+54 11 4649-2008",
+    "email": "leandro.acosta@hospitalcentral.com",
+    "direccion": "Av. Gutiérrez 3090, Buenos Aires",
+    "matricula": "MP88992"
+  },
+  {
+    "id": 41,
+    "nombre": "Dr. Valentina Castro",
+    "especialidad": "Urología",
+    "telefono": "+54 11 4945-4263",
+    "email": "valentina.castro@hospitalcentral.com",
+    "direccion": "Av. Medina 1744, Buenos Aires",
+    "matricula": "MP11524"
+  },
+  {
+    "id": 42,
+    "nombre": "Dr. Federico Castro",
+    "especialidad": "Hematología",
+    "telefono": "+54 11 4921-2409",
+    "email": "federico.castro@hospitalcentral.com",
+    "direccion": "Av. Campos 9558, Buenos Aires",
+    "matricula": "MP74828"
+  },
+  {
+    "id": 43,
+    "nombre": "Dr. Tomás Fernández",
+    "especialidad": "Ginecología",
+    "telefono": "+54 11 4614-6500",
+    "email": "tomás.fernández@hospitalcentral.com",
+    "direccion": "Av. Delgado 4433, Buenos Aires",
+    "matricula": "MP48151"
+  },
+  {
+    "id": 44,
+    "nombre": "Dr. Valentina Gutiérrez",
+    "especialidad": "Ginecología",
+    "telefono": "+54 11 4731-4714",
+    "email": "valentina.gutiérrez@hospitalcentral.com",
+    "direccion": "Av. Acosta 6885, Buenos Aires",
+    "matricula": "MP15658"
+  },
+  {
+    "id": 45,
+    "nombre": "Dr. Juan Vega",
+    "especialidad": "Reumatología",
+    "telefono": "+54 11 4974-1265",
+    "email": "juan.vega@hospitalcentral.com",
+    "direccion": "Av. Ibáñez 5620, Buenos Aires",
+    "matricula": "MP34019"
+  },
+  {
+    "id": 46,
+    "nombre": "Dr. Santiago Sánchez",
+    "especialidad": "Infectología",
+    "telefono": "+54 11 4071-7487",
+    "email": "santiago.sánchez@hospitalcentral.com",
+    "direccion": "Av. Moreno 902, Buenos Aires",
+    "matricula": "MP97336"
+  },
+  {
+    "id": 47,
+    "nombre": "Dr. Sofía Sosa",
+    "especialidad": "Psiquiatría",
+    "telefono": "+54 11 4214-8469",
+    "email": "sofía.sosa@hospitalcentral.com",
+    "direccion": "Av. Benítez 4678, Buenos Aires",
+    "matricula": "MP38184"
+  },
+  {
+    "id": 48,
+    "nombre": "Dr. Julieta Rodríguez",
+    "especialidad": "Infectología",
+    "telefono": "+54 11 4881-1570",
+    "email": "julieta.rodríguez@hospitalcentral.com",
+    "direccion": "Av. Gutiérrez 4902, Buenos Aires",
+    "matricula": "MP92372"
+  },
+  {
+    "id": 49,
+    "nombre": "Dr. Sebastián Díaz",
+    "especialidad": "Alergología",
+    "telefono": "+54 11 4366-4405",
+    "email": "sebastián.díaz@hospitalcentral.com",
+    "direccion": "Av. Navarro 1581, Buenos Aires",
+    "matricula": "MP72669"
+  },
+  {
+    "id": 50,
+    "nombre": "Dr. Agustín Castro",
+    "especialidad": "Psiquiatría",
+    "telefono": "+54 11 4387-3817",
+    "email": "agustín.castro@hospitalcentral.com",
+    "direccion": "Av. Gutiérrez 6438, Buenos Aires",
+    "matricula": "MP60054"
+  }
+]

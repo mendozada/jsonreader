@@ -1,0 +1,1304 @@
+{
+  "peliculas": [
+    {
+      "id": 1,
+      "nombre": "The Shawshank Redemption",
+      "año": 1994,
+      "duracion": "142 min",
+      "genero": "Drama",
+      "valoracion": 9.3,
+      "actores_principales": [
+        "Tim Robbins",
+        "Morgan Freeman",
+        "Bob Gunton"
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "The Godfather",
+      "año": 1972,
+      "duracion": "175 min",
+      "genero": "Crimen",
+      "valoracion": 9.2,
+      "actores_principales": [
+        "Marlon Brando",
+        "Al Pacino",
+        "James Caan"
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "The Dark Knight",
+      "año": 2008,
+      "duracion": "152 min",
+      "genero": "Acción",
+      "valoracion": 9.0,
+      "actores_principales": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart"
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Pulp Fiction",
+      "año": 1994,
+      "duracion": "154 min",
+      "genero": "Crimen",
+      "valoracion": 8.9,
+      "actores_principales": [
+        "John Travolta",
+        "Uma Thurman",
+        "Samuel L. Jackson"
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Forrest Gump",
+      "año": 1994,
+      "duracion": "142 min",
+      "genero": "Drama",
+      "valoracion": 8.8,
+      "actores_principales": [
+        "Tom Hanks",
+        "Robin Wright",
+        "Gary Sinise"
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "Inception",
+      "año": 2010,
+      "duracion": "148 min",
+      "genero": "Ciencia ficción",
+      "valoracion": 8.8,
+      "actores_principales": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Elliot Page"
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "Fight Club",
+      "año": 1999,
+      "duracion": "139 min",
+      "genero": "Drama",
+      "valoracion": 8.8,
+      "actores_principales": [
+        "Brad Pitt",
+        "Edward Norton",
+        "Helena Bonham Carter"
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "The Matrix",
+      "año": 1999,
+      "duracion": "136 min",
+      "genero": "Ciencia ficción",
+      "valoracion": 8.7,
+      "actores_principales": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss"
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "Goodfellas",
+      "año": 1990,
+      "duracion": "146 min",
+      "genero": "Crimen",
+      "valoracion": 8.7,
+      "actores_principales": [
+        "Ray Liotta",
+        "Robert De Niro",
+        "Joe Pesci"
+      ]
+    },
+    {
+      "id": 10,
+      "nombre": "The Lord of the Rings: The Fellowship of the Ring",
+      "año": 2001,
+      "duracion": "178 min",
+      "genero": "Fantasía",
+      "valoracion": 8.8,
+      "actores_principales": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Viggo Mortensen"
+      ]
+    },
+    {
+      "id": 11,
+      "nombre": "Star Wars: Episode IV - A New Hope",
+      "año": 1977,
+      "duracion": "121 min",
+      "genero": "Aventura",
+      "valoracion": 8.6,
+      "actores_principales": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher"
+      ]
+    },
+    {
+      "id": 12,
+      "nombre": "Se7en",
+      "año": 1995,
+      "duracion": "127 min",
+      "genero": "Suspenso",
+      "valoracion": 8.6,
+      "actores_principales": [
+        "Brad Pitt",
+        "Morgan Freeman",
+        "Gwyneth Paltrow"
+      ]
+    },
+    {
+      "id": 13,
+      "nombre": "The Silence of the Lambs",
+      "año": 1991,
+      "duracion": "118 min",
+      "genero": "Suspenso",
+      "valoracion": 8.6,
+      "actores_principales": [
+        "Jodie Foster",
+        "Anthony Hopkins",
+        "Ted Levine"
+      ]
+    },
+    {
+      "id": 14,
+      "nombre": "Interstellar",
+      "año": 2014,
+      "duracion": "169 min",
+      "genero": "Ciencia ficción",
+      "valoracion": 8.6,
+      "actores_principales": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain"
+      ]
+    },
+    {
+      "id": 15,
+      "nombre": "Saving Private Ryan",
+      "año": 1998,
+      "duracion": "169 min",
+      "genero": "Bélica",
+      "valoracion": 8.6,
+      "actores_principales": [
+        "Tom Hanks",
+        "Matt Damon",
+        "Tom Sizemore"
+      ]
+    },
+    {
+      "id": 16,
+      "nombre": "Parasite",
+      "año": 2019,
+      "duracion": "132 min",
+      "genero": "Drama",
+      "valoracion": 8.5,
+      "actores_principales": [
+        "Song Kang-ho",
+        "Lee Sun-kyun",
+        "Cho Yeo-jeong"
+      ]
+    },
+    {
+      "id": 17,
+      "nombre": "The Green Mile",
+      "año": 1999,
+      "duracion": "189 min",
+      "genero": "Drama",
+      "valoracion": 8.6,
+      "actores_principales": [
+        "Tom Hanks",
+        "Michael Clarke Duncan",
+        "David Morse"
+      ]
+    },
+    {
+      "id": 18,
+      "nombre": "Gladiator",
+      "año": 2000,
+      "duracion": "155 min",
+      "genero": "Acción",
+      "valoracion": 8.5,
+      "actores_principales": [
+        "Russell Crowe",
+        "Joaquin Phoenix",
+        "Connie Nielsen"
+      ]
+    },
+    {
+      "id": 19,
+      "nombre": "Titanic",
+      "año": 1997,
+      "duracion": "195 min",
+      "genero": "Romance",
+      "valoracion": 7.8,
+      "actores_principales": [
+        "Leonardo DiCaprio",
+        "Kate Winslet",
+        "Billy Zane"
+      ]
+    },
+    {
+      "id": 20,
+      "nombre": "Whiplash",
+      "año": 2014,
+      "duracion": "106 min",
+      "genero": "Drama",
+      "valoracion": 8.5,
+      "actores_principales": [
+        "Miles Teller",
+        "J.K. Simmons",
+        "Paul Reiser"
+      ]
+    },
+    {
+      "id": 21,
+      "nombre": "The Prestige",
+      "año": 2006,
+      "duracion": "130 min",
+      "genero": "Drama",
+      "valoracion": 8.5,
+      "actores_principales": [
+        "Christian Bale",
+        "Hugh Jackman",
+        "Scarlett Johansson"
+      ]
+    },
+    {
+      "id": 22,
+      "nombre": "The Departed",
+      "año": 2006,
+      "duracion": "151 min",
+      "genero": "Crimen",
+      "valoracion": 8.5,
+      "actores_principales": [
+        "Leonardo DiCaprio",
+        "Matt Damon",
+        "Jack Nicholson"
+      ]
+    },
+    {
+      "id": 23,
+      "nombre": "Joker",
+      "año": 2019,
+      "duracion": "122 min",
+      "genero": "Drama",
+      "valoracion": 8.4,
+      "actores_principales": [
+        "Joaquin Phoenix",
+        "Robert De Niro",
+        "Zazie Beetz"
+      ]
+    },
+    {
+      "id": 24,
+      "nombre": "Avengers: Endgame",
+      "año": 2019,
+      "duracion": "181 min",
+      "genero": "Acción",
+      "valoracion": 8.4,
+      "actores_principales": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Chris Hemsworth"
+      ]
+    },
+    {
+      "id": 25,
+      "nombre": "The Lion King",
+      "año": 1994,
+      "duracion": "88 min",
+      "genero": "Animación",
+      "valoracion": 8.5,
+      "actores_principales": [
+        "Matthew Broderick",
+        "Jeremy Irons",
+        "James Earl Jones"
+      ]
+    },
+    {
+      "id": 26,
+      "nombre": "The Pianist",
+      "año": 2002,
+      "duracion": "150 min",
+      "genero": "Drama",
+      "valoracion": 8.5,
+      "actores_principales": [
+        "Adrien Brody",
+        "Thomas Kretschmann",
+        "Emilia Fox"
+      ]
+    },
+    {
+      "id": 27,
+      "nombre": "Terminator 2: Judgment Day",
+      "año": 1991,
+      "duracion": "137 min",
+      "genero": "Acción",
+      "valoracion": 8.6,
+      "actores_principales": [
+        "Arnold Schwarzenegger",
+        "Linda Hamilton",
+        "Edward Furlong"
+      ]
+    },
+    {
+      "id": 28,
+      "nombre": "Back to the Future",
+      "año": 1985,
+      "duracion": "116 min",
+      "genero": "Aventura",
+      "valoracion": 8.5,
+      "actores_principales": [
+        "Michael J. Fox",
+        "Christopher Lloyd",
+        "Lea Thompson"
+      ]
+    },
+    {
+      "id": 29,
+      "nombre": "Alien",
+      "año": 1979,
+      "duracion": "117 min",
+      "genero": "Terror",
+      "valoracion": 8.4,
+      "actores_principales": [
+        "Sigourney Weaver",
+        "Tom Skerritt",
+        "Veronica Cartwright"
+      ]
+    },
+    {
+      "id": 30,
+      "nombre": "The Lord of the Rings: The Return of the King",
+      "año": 2003,
+      "duracion": "201 min",
+      "genero": "Fantasía",
+      "valoracion": 8.9,
+      "actores_principales": [
+        "Elijah Wood",
+        "Sean Astin",
+        "Viggo Mortensen"
+      ]
+    },
+    {
+      "id": 31,
+      "nombre": "Schindler's List",
+      "año": 1993,
+      "duracion": "195 min",
+      "genero": "Histórica",
+      "valoracion": 8.9,
+      "actores_principales": [
+        "Liam Neeson",
+        "Ben Kingsley",
+        "Ralph Fiennes"
+      ]
+    },
+    {
+      "id": 32,
+      "nombre": "The Social Network",
+      "año": 2010,
+      "duracion": "120 min",
+      "genero": "Drama",
+      "valoracion": 7.7,
+      "actores_principales": [
+        "Jesse Eisenberg",
+        "Andrew Garfield",
+        "Justin Timberlake"
+      ]
+    },
+    {
+      "id": 33,
+      "nombre": "Shutter Island",
+      "año": 2010,
+      "duracion": "138 min",
+      "genero": "Suspenso",
+      "valoracion": 8.1,
+      "actores_principales": [
+        "Leonardo DiCaprio",
+        "Mark Ruffalo",
+        "Ben Kingsley"
+      ]
+    },
+    {
+      "id": 34,
+      "nombre": "Django Unchained",
+      "año": 2012,
+      "duracion": "165 min",
+      "genero": "Western",
+      "valoracion": 8.4,
+      "actores_principales": [
+        "Jamie Foxx",
+        "Christoph Waltz",
+        "Leonardo DiCaprio"
+      ]
+    },
+    {
+      "id": 35,
+      "nombre": "The Wolf of Wall Street",
+      "año": 2013,
+      "duracion": "180 min",
+      "genero": "Biográfica",
+      "valoracion": 8.2,
+      "actores_principales": [
+        "Leonardo DiCaprio",
+        "Jonah Hill",
+        "Margot Robbie"
+      ]
+    },
+    {
+      "id": 36,
+      "nombre": "Mad Max: Fury Road",
+      "año": 2015,
+      "duracion": "120 min",
+      "genero": "Acción",
+      "valoracion": 8.1,
+      "actores_principales": [
+        "Tom Hardy",
+        "Charlize Theron",
+        "Nicholas Hoult"
+      ]
+    },
+    {
+      "id": 37,
+      "nombre": "The Truman Show",
+      "año": 1998,
+      "duracion": "103 min",
+      "genero": "Drama",
+      "valoracion": 8.2,
+      "actores_principales": [
+        "Jim Carrey",
+        "Laura Linney",
+        "Ed Harris"
+      ]
+    },
+    {
+      "id": 38,
+      "nombre": "A Beautiful Mind",
+      "año": 2001,
+      "duracion": "135 min",
+      "genero": "Biográfica",
+      "valoracion": 8.2,
+      "actores_principales": [
+        "Russell Crowe",
+        "Jennifer Connelly",
+        "Ed Harris"
+      ]
+    },
+    {
+      "id": 39,
+      "nombre": "No Country for Old Men",
+      "año": 2007,
+      "duracion": "122 min",
+      "genero": "Crimen",
+      "valoracion": 8.2,
+      "actores_principales": [
+        "Josh Brolin",
+        "Javier Bardem",
+        "Tommy Lee Jones"
+      ]
+    },
+    {
+      "id": 40,
+      "nombre": "The Revenant",
+      "año": 2015,
+      "duracion": "156 min",
+      "genero": "Aventura",
+      "valoracion": 8.0,
+      "actores_principales": [
+        "Leonardo DiCaprio",
+        "Tom Hardy",
+        "Domhnall Gleeson"
+      ]
+    },
+    {
+      "id": 41,
+      "nombre": "Blade Runner 2049",
+      "año": 2017,
+      "duracion": "164 min",
+      "genero": "Ciencia ficción",
+      "valoracion": 8.0,
+      "actores_principales": [
+        "Ryan Gosling",
+        "Harrison Ford",
+        "Ana de Armas"
+      ]
+    },
+    {
+      "id": 42,
+      "nombre": "12 Angry Men",
+      "año": 1957,
+      "duracion": "96 min",
+      "genero": "Drama",
+      "valoracion": 9.0,
+      "actores_principales": [
+        "Henry Fonda",
+        "Lee J. Cobb",
+        "E.G. Marshall"
+      ]
+    },
+    {
+      "id": 43,
+      "nombre": "The Usual Suspects",
+      "año": 1995,
+      "duracion": "106 min",
+      "genero": "Crimen",
+      "valoracion": 8.5,
+      "actores_principales": [
+        "Kevin Spacey",
+        "Gabriel Byrne",
+        "Benicio Del Toro"
+      ]
+    },
+    {
+      "id": 44,
+      "nombre": "Good Will Hunting",
+      "año": 1997,
+      "duracion": "126 min",
+      "genero": "Drama",
+      "valoracion": 8.3,
+      "actores_principales": [
+        "Matt Damon",
+        "Robin Williams",
+        "Ben Affleck"
+      ]
+    },
+    {
+      "id": 45,
+      "nombre": "The Grand Budapest Hotel",
+      "año": 2014,
+      "duracion": "99 min",
+      "genero": "Comedia",
+      "valoracion": 8.1,
+      "actores_principales": [
+        "Ralph Fiennes",
+        "Tony Revolori",
+        "Saoirse Ronan"
+      ]
+    },
+    {
+      "id": 46,
+      "nombre": "The Incredibles",
+      "año": 2004,
+      "duracion": "115 min",
+      "genero": "Animación",
+      "valoracion": 8.0,
+      "actores_principales": [
+        "Craig T. Nelson",
+        "Holly Hunter",
+        "Samuel L. Jackson"
+      ]
+    },
+    {
+      "id": 47,
+      "nombre": "Inside Out",
+      "año": 2015,
+      "duracion": "95 min",
+      "genero": "Animación",
+      "valoracion": 8.1,
+      "actores_principales": [
+        "Amy Poehler",
+        "Phyllis Smith",
+        "Mindy Kaling"
+      ]
+    },
+    {
+      "id": 48,
+      "nombre": "Coco",
+      "año": 2017,
+      "duracion": "105 min",
+      "genero": "Animación",
+      "valoracion": 8.4,
+      "actores_principales": [
+        "Anthony Gonzalez",
+        "Gael García Bernal",
+        "Benjamin Bratt"
+      ]
+    },
+    {
+      "id": 49,
+      "nombre": "Up",
+      "año": 2009,
+      "duracion": "96 min",
+      "genero": "Animación",
+      "valoracion": 8.2,
+      "actores_principales": [
+        "Ed Asner",
+        "Christopher Plummer",
+        "Jordan Nagai"
+      ]
+    },
+    {
+      "id": 50,
+      "nombre": "Toy Story",
+      "año": 1995,
+      "duracion": "81 min",
+      "genero": "Animación",
+      "valoracion": 8.3,
+      "actores_principales": [
+        "Tom Hanks",
+        "Tim Allen",
+        "Don Rickles"
+      ]
+    },
+    {
+      "id": 51,
+      "nombre": "Toy Story 3",
+      "año": 2010,
+      "duracion": "103 min",
+      "genero": "Animación",
+      "valoracion": 8.2,
+      "actores_principales": [
+        "Tom Hanks",
+        "Tim Allen",
+        "Joan Cusack"
+      ]
+    },
+    {
+      "id": 52,
+      "nombre": "Finding Nemo",
+      "año": 2003,
+      "duracion": "100 min",
+      "genero": "Animación",
+      "valoracion": 8.1,
+      "actores_principales": [
+        "Albert Brooks",
+        "Ellen DeGeneres",
+        "Alexander Gould"
+      ]
+    },
+    {
+      "id": 53,
+      "nombre": "WALL·E",
+      "año": 2008,
+      "duracion": "98 min",
+      "genero": "Animación",
+      "valoracion": 8.4,
+      "actores_principales": [
+        "Ben Burtt",
+        "Elissa Knight",
+        "Jeff Garlin"
+      ]
+    },
+    {
+      "id": 54,
+      "nombre": "Monsters, Inc.",
+      "año": 2001,
+      "duracion": "92 min",
+      "genero": "Animación",
+      "valoracion": 8.1,
+      "actores_principales": [
+        "John Goodman",
+        "Billy Crystal",
+        "Steve Buscemi"
+      ]
+    },
+    {
+      "id": 55,
+      "nombre": "Frozen",
+      "año": 2013,
+      "duracion": "102 min",
+      "genero": "Animación",
+      "valoracion": 7.4,
+      "actores_principales": [
+        "Idina Menzel",
+        "Kristen Bell",
+        "Jonathan Groff"
+      ]
+    },
+    {
+      "id": 56,
+      "nombre": "Moana",
+      "año": 2016,
+      "duracion": "107 min",
+      "genero": "Animación",
+      "valoracion": 7.6,
+      "actores_principales": [
+        "Auli'i Cravalho",
+        "Dwayne Johnson",
+        "Temuera Morrison"
+      ]
+    },
+    {
+      "id": 57,
+      "nombre": "Encanto",
+      "año": 2021,
+      "duracion": "102 min",
+      "genero": "Animación",
+      "valoracion": 7.2,
+      "actores_principales": [
+        "Stephanie Beatriz",
+        "María Cecilia Botero",
+        "John Leguizamo"
+      ]
+    },
+    {
+      "id": 58,
+      "nombre": "Spirited Away",
+      "año": 2001,
+      "duracion": "125 min",
+      "genero": "Animación",
+      "valoracion": 8.6,
+      "actores_principales": [
+        "Rumi Hiiragi",
+        "Miyu Irino",
+        "Mari Natsuki"
+      ]
+    },
+    {
+      "id": 59,
+      "nombre": "Princess Mononoke",
+      "año": 1997,
+      "duracion": "134 min",
+      "genero": "Animación",
+      "valoracion": 8.4,
+      "actores_principales": [
+        "Yōji Matsuda",
+        "Yuriko Ishida",
+        "Yūko Tanaka"
+      ]
+    },
+    {
+      "id": 60,
+      "nombre": "My Neighbor Totoro",
+      "año": 1988,
+      "duracion": "86 min",
+      "genero": "Animación",
+      "valoracion": 8.1,
+      "actores_principales": [
+        "Noriko Hidaka",
+        "Chika Sakamoto",
+        "Hitoshi Takagi"
+      ]
+    },
+    {
+      "id": 61,
+      "nombre": "Howl's Moving Castle",
+      "año": 2004,
+      "duracion": "119 min",
+      "genero": "Animación",
+      "valoracion": 8.2,
+      "actores_principales": [
+        "Chieko Baisho",
+        "Takuya Kimura",
+        "Akihiro Miwa"
+      ]
+    },
+    {
+      "id": 62,
+      "nombre": "Your Name",
+      "año": 2016,
+      "duracion": "106 min",
+      "genero": "Animación",
+      "valoracion": 8.4,
+      "actores_principales": [
+        "Ryunosuke Kamiki",
+        "Mone Kamishiraishi",
+        "Ryo Narita"
+      ]
+    },
+    {
+      "id": 63,
+      "nombre": "Akira",
+      "año": 1988,
+      "duracion": "124 min",
+      "genero": "Animación",
+      "valoracion": 8.0,
+      "actores_principales": [
+        "Mitsuo Iwata",
+        "Nozomu Sasaki",
+        "Mami Koyama"
+      ]
+    },
+    {
+      "id": 64,
+      "nombre": "Ghost in the Shell",
+      "año": 1995,
+      "duracion": "83 min",
+      "genero": "Animación",
+      "valoracion": 7.9,
+      "actores_principales": [
+        "Atsuko Tanaka",
+        "Akio Ōtsuka",
+        "Iemasa Kayumi"
+      ]
+    },
+    {
+      "id": 65,
+      "nombre": "The Iron Giant",
+      "año": 1999,
+      "duracion": "86 min",
+      "genero": "Animación",
+      "valoracion": 8.0,
+      "actores_principales": [
+        "Eli Marienthal",
+        "Vin Diesel",
+        "Jennifer Aniston"
+      ]
+    },
+    {
+      "id": 66,
+      "nombre": "The Lego Movie",
+      "año": 2014,
+      "duracion": "100 min",
+      "genero": "Animación",
+      "valoracion": 7.7,
+      "actores_principales": [
+        "Chris Pratt",
+        "Elizabeth Banks",
+        "Will Arnett"
+      ]
+    },
+    {
+      "id": 67,
+      "nombre": "Zootopia",
+      "año": 2016,
+      "duracion": "108 min",
+      "genero": "Animación",
+      "valoracion": 8.0,
+      "actores_principales": [
+        "Ginnifer Goodwin",
+        "Jason Bateman",
+        "Idris Elba"
+      ]
+    },
+    {
+      "id": 68,
+      "nombre": "Big Hero 6",
+      "año": 2014,
+      "duracion": "102 min",
+      "genero": "Animación",
+      "valoracion": 7.8,
+      "actores_principales": [
+        "Ryan Potter",
+        "Scott Adsit",
+        "Jamie Chung"
+      ]
+    },
+    {
+      "id": 69,
+      "nombre": "Ratatouille",
+      "año": 2007,
+      "duracion": "111 min",
+      "genero": "Animación",
+      "valoracion": 8.0,
+      "actores_principales": [
+        "Patton Oswalt",
+        "Lou Romano",
+        "Ian Holm"
+      ]
+    },
+    {
+      "id": 70,
+      "nombre": "Cars",
+      "año": 2006,
+      "duracion": "117 min",
+      "genero": "Animación",
+      "valoracion": 7.2,
+      "actores_principales": [
+        "Owen Wilson",
+        "Paul Newman",
+        "Bonnie Hunt"
+      ]
+    },
+    {
+      "id": 71,
+      "nombre": "Shrek",
+      "año": 2001,
+      "duracion": "90 min",
+      "genero": "Animación",
+      "valoracion": 7.9,
+      "actores_principales": [
+        "Mike Myers",
+        "Eddie Murphy",
+        "Cameron Diaz"
+      ]
+    },
+    {
+      "id": 72,
+      "nombre": "Kung Fu Panda",
+      "año": 2008,
+      "duracion": "92 min",
+      "genero": "Animación",
+      "valoracion": 7.6,
+      "actores_principales": [
+        "Jack Black",
+        "Dustin Hoffman",
+        "Angelina Jolie"
+      ]
+    },
+    {
+      "id": 73,
+      "nombre": "Megamind",
+      "año": 2010,
+      "duracion": "95 min",
+      "genero": "Animación",
+      "valoracion": 7.3,
+      "actores_principales": [
+        "Will Ferrell",
+        "Tina Fey",
+        "Jonah Hill"
+      ]
+    },
+    {
+      "id": 74,
+      "nombre": "Despicable Me",
+      "año": 2010,
+      "duracion": "95 min",
+      "genero": "Animación",
+      "valoracion": 7.6,
+      "actores_principales": [
+        "Steve Carell",
+        "Jason Segel",
+        "Miranda Cosgrove"
+      ]
+    },
+    {
+      "id": 75,
+      "nombre": "Minions",
+      "año": 2015,
+      "duracion": "91 min",
+      "genero": "Animación",
+      "valoracion": 6.4,
+      "actores_principales": [
+        "Sandra Bullock",
+        "Jon Hamm",
+        "Pierre Coffin"
+      ]
+    },
+    {
+      "id": 76,
+      "nombre": "The Secret Life of Pets",
+      "año": 2016,
+      "duracion": "87 min",
+      "genero": "Animación",
+      "valoracion": 6.5,
+      "actores_principales": [
+        "Louis C.K.",
+        "Eric Stonestreet",
+        "Kevin Hart"
+      ]
+    },
+    {
+      "id": 77,
+      "nombre": "Sing",
+      "año": 2016,
+      "duracion": "108 min",
+      "genero": "Animación",
+      "valoracion": 7.1,
+      "actores_principales": [
+        "Matthew McConaughey",
+        "Reese Witherspoon",
+        "Scarlett Johansson"
+      ]
+    },
+    {
+      "id": 78,
+      "nombre": "The Mitchells vs. the Machines",
+      "año": 2021,
+      "duracion": "113 min",
+      "genero": "Animación",
+      "valoracion": 7.7,
+      "actores_principales": [
+        "Abbi Jacobson",
+        "Danny McBride",
+        "Maya Rudolph"
+      ]
+    },
+    {
+      "id": 79,
+      "nombre": "Everything Everywhere All at Once",
+      "año": 2022,
+      "duracion": "139 min",
+      "genero": "Ciencia ficción",
+      "valoracion": 7.9,
+      "actores_principales": [
+        "Michelle Yeoh",
+        "Ke Huy Quan",
+        "Stephanie Hsu"
+      ]
+    },
+    {
+      "id": 80,
+      "nombre": "Oppenheimer",
+      "año": 2023,
+      "duracion": "180 min",
+      "genero": "Biográfica",
+      "valoracion": 8.6,
+      "actores_principales": [
+        "Cillian Murphy",
+        "Emily Blunt",
+        "Robert Downey Jr."
+      ]
+    },
+    {
+      "id": 81,
+      "nombre": "Barbie",
+      "año": 2023,
+      "duracion": "114 min",
+      "genero": "Comedia",
+      "valoracion": 7.0,
+      "actores_principales": [
+        "Margot Robbie",
+        "Ryan Gosling",
+        "America Ferrera"
+      ]
+    },
+    {
+      "id": 82,
+      "nombre": "Dune",
+      "año": 2021,
+      "duracion": "155 min",
+      "genero": "Ciencia ficción",
+      "valoracion": 8.0,
+      "actores_principales": [
+        "Timothée Chalamet",
+        "Rebecca Ferguson",
+        "Oscar Isaac"
+      ]
+    },
+    {
+      "id": 83,
+      "nombre": "Tenet",
+      "año": 2020,
+      "duracion": "150 min",
+      "genero": "Acción",
+      "valoracion": 7.3,
+      "actores_principales": [
+        "John David Washington",
+        "Robert Pattinson",
+        "Elizabeth Debicki"
+      ]
+    },
+    {
+      "id": 84,
+      "nombre": "The Batman",
+      "año": 2022,
+      "duracion": "176 min",
+      "genero": "Acción",
+      "valoracion": 7.8,
+      "actores_principales": [
+        "Robert Pattinson",
+        "Zoë Kravitz",
+        "Paul Dano"
+      ]
+    },
+    {
+      "id": 85,
+      "nombre": "Spider-Man: No Way Home",
+      "año": 2021,
+      "duracion": "148 min",
+      "genero": "Acción",
+      "valoracion": 8.2,
+      "actores_principales": [
+        "Tom Holland",
+        "Zendaya",
+        "Benedict Cumberbatch"
+      ]
+    },
+    {
+      "id": 86,
+      "nombre": "Doctor Strange",
+      "año": 2016,
+      "duracion": "115 min",
+      "genero": "Acción",
+      "valoracion": 7.5,
+      "actores_principales": [
+        "Benedict Cumberbatch",
+        "Chiwetel Ejiofor",
+        "Rachel McAdams"
+      ]
+    },
+    {
+      "id": 87,
+      "nombre": "Iron Man",
+      "año": 2008,
+      "duracion": "126 min",
+      "genero": "Acción",
+      "valoracion": 7.9,
+      "actores_principales": [
+        "Robert Downey Jr.",
+        "Gwyneth Paltrow",
+        "Terrence Howard"
+      ]
+    },
+    {
+      "id": 88,
+      "nombre": "Captain America: Civil War",
+      "año": 2016,
+      "duracion": "147 min",
+      "genero": "Acción",
+      "valoracion": 7.8,
+      "actores_principales": [
+        "Chris Evans",
+        "Robert Downey Jr.",
+        "Scarlett Johansson"
+      ]
+    },
+    {
+      "id": 89,
+      "nombre": "Guardians of the Galaxy",
+      "año": 2014,
+      "duracion": "121 min",
+      "genero": "Acción",
+      "valoracion": 8.0,
+      "actores_principales": [
+        "Chris Pratt",
+        "Zoe Saldana",
+        "Dave Bautista"
+      ]
+    },
+    {
+      "id": 90,
+      "nombre": "Black Panther",
+      "año": 2018,
+      "duracion": "134 min",
+      "genero": "Acción",
+      "valoracion": 7.3,
+      "actores_principales": [
+        "Chadwick Boseman",
+        "Michael B. Jordan",
+        "Lupita Nyong'o"
+      ]
+    },
+    {
+      "id": 91,
+      "nombre": "Thor: Ragnarok",
+      "año": 2017,
+      "duracion": "130 min",
+      "genero": "Acción",
+      "valoracion": 7.9,
+      "actores_principales": [
+        "Chris Hemsworth",
+        "Tom Hiddleston",
+        "Cate Blanchett"
+      ]
+    },
+    {
+      "id": 92,
+      "nombre": "Ant-Man",
+      "año": 2015,
+      "duracion": "117 min",
+      "genero": "Acción",
+      "valoracion": 7.3,
+      "actores_principales": [
+        "Paul Rudd",
+        "Evangeline Lilly",
+        "Michael Douglas"
+      ]
+    },
+    {
+      "id": 93,
+      "nombre": "Deadpool",
+      "año": 2016,
+      "duracion": "108 min",
+      "genero": "Acción",
+      "valoracion": 8.0,
+      "actores_principales": [
+        "Ryan Reynolds",
+        "Morena Baccarin",
+        "T.J. Miller"
+      ]
+    },
+    {
+      "id": 94,
+      "nombre": "Logan",
+      "año": 2017,
+      "duracion": "137 min",
+      "genero": "Acción",
+      "valoracion": 8.1,
+      "actores_principales": [
+        "Hugh Jackman",
+        "Patrick Stewart",
+        "Dafne Keen"
+      ]
+    },
+    {
+      "id": 95,
+      "nombre": "X-Men: Days of Future Past",
+      "año": 2014,
+      "duracion": "132 min",
+      "genero": "Acción",
+      "valoracion": 7.9,
+      "actores_principales": [
+        "Hugh Jackman",
+        "James McAvoy",
+        "Michael Fassbender"
+      ]
+    },
+    {
+      "id": 96,
+      "nombre": "The Amazing Spider-Man",
+      "año": 2012,
+      "duracion": "136 min",
+      "genero": "Acción",
+      "valoracion": 6.9,
+      "actores_principales": [
+        "Andrew Garfield",
+        "Emma Stone",
+        "Rhys Ifans"
+      ]
+    },
+    {
+      "id": 97,
+      "nombre": "Man of Steel",
+      "año": 2013,
+      "duracion": "143 min",
+      "genero": "Acción",
+      "valoracion": 7.0,
+      "actores_principales": [
+        "Henry Cavill",
+        "Amy Adams",
+        "Michael Shannon"
+      ]
+    },
+    {
+      "id": 98,
+      "nombre": "Wonder Woman",
+      "año": 2017,
+      "duracion": "141 min",
+      "genero": "Acción",
+      "valoracion": 7.4,
+      "actores_principales": [
+        "Gal Gadot",
+        "Chris Pine",
+        "Robin Wright"
+      ]
+    },
+    {
+      "id": 99,
+      "nombre": "Aquaman",
+      "año": 2018,
+      "duracion": "143 min",
+      "genero": "Acción",
+      "valoracion": 6.8,
+      "actores_principales": [
+        "Jason Momoa",
+        "Amber Heard",
+        "Patrick Wilson"
+      ]
+    },
+    {
+      "id": 100,
+      "nombre": "Justice League",
+      "año": 2017,
+      "duracion": "120 min",
+      "genero": "Acción",
+      "valoracion": 6.1,
+      "actores_principales": [
+        "Ben Affleck",
+        "Henry Cavill",
+        "Gal Gadot"
+      ]
+    }
+  ]
+}
