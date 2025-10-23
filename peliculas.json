@@ -7,11 +7,9 @@
       "duracion": "142 min",
       "genero": "Drama",
       "valoracion": 9.3,
-      "actores_principales": [
-        "Tim Robbins",
-        "Morgan Freeman",
-        "Bob Gunton"
-      ]
+      "actores_principales": ["Tim Robbins","Morgan Freeman","Bob Gunton"],
+      "sala": 1,
+      "horario": "12:00"
     },
     {
       "id": 2,
@@ -20,11 +18,9 @@
       "duracion": "175 min",
       "genero": "Crimen",
       "valoracion": 9.2,
-      "actores_principales": [
-        "Marlon Brando",
-        "Al Pacino",
-        "James Caan"
-      ]
+      "actores_principales": ["Marlon Brando","Al Pacino","James Caan"],
+      "sala": 1,
+      "horario": "14:30"
     },
     {
       "id": 3,
@@ -32,12 +28,10 @@
       "año": 2008,
       "duracion": "152 min",
       "genero": "Acción",
-      "valoracion": 9.0,
-      "actores_principales": [
-        "Christian Bale",
-        "Heath Ledger",
-        "Aaron Eckhart"
-      ]
+      "valoracion": 9,
+      "actores_principales": ["Christian Bale","Heath Ledger","Aaron Eckhart"],
+      "sala": 1,
+      "horario": "17:00"
     },
     {
       "id": 4,
@@ -46,11 +40,9 @@
       "duracion": "154 min",
       "genero": "Crimen",
       "valoracion": 8.9,
-      "actores_principales": [
-        "John Travolta",
-        "Uma Thurman",
-        "Samuel L. Jackson"
-      ]
+      "actores_principales": ["John Travolta","Uma Thurman","Samuel L. Jackson"],
+      "sala": 1,
+      "horario": "19:30"
     },
     {
       "id": 5,
@@ -59,11 +51,9 @@
       "duracion": "142 min",
       "genero": "Drama",
       "valoracion": 8.8,
-      "actores_principales": [
-        "Tom Hanks",
-        "Robin Wright",
-        "Gary Sinise"
-      ]
+      "actores_principales": ["Tom Hanks","Robin Wright","Gary Sinise"],
+      "sala": 1,
+      "horario": "22:00"
     },
     {
       "id": 6,
@@ -72,11 +62,9 @@
       "duracion": "148 min",
       "genero": "Ciencia ficción",
       "valoracion": 8.8,
-      "actores_principales": [
-        "Leonardo DiCaprio",
-        "Joseph Gordon-Levitt",
-        "Elliot Page"
-      ]
+      "actores_principales": ["Leonardo DiCaprio","Joseph Gordon-Levitt","Elliot Page"],
+      "sala": 1,
+      "horario": "12:00"
     },
     {
       "id": 7,
@@ -85,11 +73,9 @@
       "duracion": "139 min",
       "genero": "Drama",
       "valoracion": 8.8,
-      "actores_principales": [
-        "Brad Pitt",
-        "Edward Norton",
-        "Helena Bonham Carter"
-      ]
+      "actores_principales": ["Brad Pitt","Edward Norton","Helena Bonham Carter"],
+      "sala": 1,
+      "horario": "14:30"
     },
     {
       "id": 8,
@@ -98,11 +84,9 @@
       "duracion": "136 min",
       "genero": "Ciencia ficción",
       "valoracion": 8.7,
-      "actores_principales": [
-        "Keanu Reeves",
-        "Laurence Fishburne",
-        "Carrie-Anne Moss"
-      ]
+      "actores_principales": ["Keanu Reeves","Laurence Fishburne","Carrie-Anne Moss"],
+      "sala": 1,
+      "horario": "17:00"
     },
     {
       "id": 9,
@@ -111,11 +95,9 @@
       "duracion": "146 min",
       "genero": "Crimen",
       "valoracion": 8.7,
-      "actores_principales": [
-        "Ray Liotta",
-        "Robert De Niro",
-        "Joe Pesci"
-      ]
+      "actores_principales": ["Ray Liotta","Robert De Niro","Joe Pesci"],
+      "sala": 1,
+      "horario": "19:30"
     },
     {
       "id": 10,
@@ -124,11 +106,9 @@
       "duracion": "178 min",
       "genero": "Fantasía",
       "valoracion": 8.8,
-      "actores_principales": [
-        "Elijah Wood",
-        "Ian McKellen",
-        "Viggo Mortensen"
-      ]
+      "actores_principales": ["Elijah Wood","Ian McKellen","Viggo Mortensen"],
+      "sala": 1,
+      "horario": "22:00"
     },
     {
       "id": 11,
@@ -137,11 +117,9 @@
       "duracion": "121 min",
       "genero": "Aventura",
       "valoracion": 8.6,
-      "actores_principales": [
-        "Mark Hamill",
-        "Harrison Ford",
-        "Carrie Fisher"
-      ]
+      "actores_principales": ["Mark Hamill","Harrison Ford","Carrie Fisher"],
+      "sala": 2,
+      "horario": "12:00"
     },
     {
       "id": 12,
@@ -150,11 +128,9 @@
       "duracion": "127 min",
       "genero": "Suspenso",
       "valoracion": 8.6,
-      "actores_principales": [
-        "Brad Pitt",
-        "Morgan Freeman",
-        "Gwyneth Paltrow"
-      ]
+      "actores_principales": ["Brad Pitt","Morgan Freeman","Gwyneth Paltrow"],
+      "sala": 2,
+      "horario": "14:30"
     },
     {
       "id": 13,
@@ -163,11 +139,9 @@
       "duracion": "118 min",
       "genero": "Suspenso",
       "valoracion": 8.6,
-      "actores_principales": [
-        "Jodie Foster",
-        "Anthony Hopkins",
-        "Ted Levine"
-      ]
+      "actores_principales": ["Jodie Foster","Anthony Hopkins","Ted Levine"],
+      "sala": 2,
+      "horario": "17:00"
     },
     {
       "id": 14,
@@ -176,11 +150,9 @@
       "duracion": "169 min",
       "genero": "Ciencia ficción",
       "valoracion": 8.6,
-      "actores_principales": [
-        "Matthew McConaughey",
-        "Anne Hathaway",
-        "Jessica Chastain"
-      ]
+      "actores_principales": ["Matthew McConaughey","Anne Hathaway","Jessica Chastain"],
+      "sala": 2,
+      "horario": "19:30"
     },
     {
       "id": 15,
@@ -189,11 +161,9 @@
       "duracion": "169 min",
       "genero": "Bélica",
       "valoracion": 8.6,
-      "actores_principales": [
-        "Tom Hanks",
-        "Matt Damon",
-        "Tom Sizemore"
-      ]
+      "actores_principales": ["Tom Hanks","Matt Damon","Tom Sizemore"],
+      "sala": 2,
+      "horario": "22:00"
     },
     {
       "id": 16,
@@ -202,11 +172,9 @@
       "duracion": "132 min",
       "genero": "Drama",
       "valoracion": 8.5,
-      "actores_principales": [
-        "Song Kang-ho",
-        "Lee Sun-kyun",
-        "Cho Yeo-jeong"
-      ]
+      "actores_principales": ["Song Kang-ho","Lee Sun-kyun","Cho Yeo-jeong"],
+      "sala": 2,
+      "horario": "12:00"
     },
     {
       "id": 17,
@@ -215,11 +183,9 @@
       "duracion": "189 min",
       "genero": "Drama",
       "valoracion": 8.6,
-      "actores_principales": [
-        "Tom Hanks",
-        "Michael Clarke Duncan",
-        "David Morse"
-      ]
+      "actores_principales": ["Tom Hanks","Michael Clarke Duncan","David Morse"],
+      "sala": 2,
+      "horario": "14:30"
     },
     {
       "id": 18,
@@ -228,11 +194,9 @@
       "duracion": "155 min",
       "genero": "Acción",
       "valoracion": 8.5,
-      "actores_principales": [
-        "Russell Crowe",
-        "Joaquin Phoenix",
-        "Connie Nielsen"
-      ]
+      "actores_principales": ["Russell Crowe","Joaquin Phoenix","Connie Nielsen"],
+      "sala": 2,
+      "horario": "17:00"
     },
     {
       "id": 19,
@@ -241,11 +205,9 @@
       "duracion": "195 min",
       "genero": "Romance",
       "valoracion": 7.8,
-      "actores_principales": [
-        "Leonardo DiCaprio",
-        "Kate Winslet",
-        "Billy Zane"
-      ]
+      "actores_principales": ["Leonardo DiCaprio","Kate Winslet","Billy Zane"],
+      "sala": 2,
+      "horario": "19:30"
     },
     {
       "id": 20,
@@ -254,11 +216,9 @@
       "duracion": "106 min",
       "genero": "Drama",
       "valoracion": 8.5,
-      "actores_principales": [
-        "Miles Teller",
-        "J.K. Simmons",
-        "Paul Reiser"
-      ]
+      "actores_principales": ["Miles Teller","J.K. Simmons","Paul Reiser"],
+      "sala": 2,
+      "horario": "22:00"
     },
     {
       "id": 21,
@@ -267,11 +227,9 @@
       "duracion": "130 min",
       "genero": "Drama",
       "valoracion": 8.5,
-      "actores_principales": [
-        "Christian Bale",
-        "Hugh Jackman",
-        "Scarlett Johansson"
-      ]
+      "actores_principales": ["Christian Bale","Hugh Jackman","Scarlett Johansson"],
+      "sala": 3,
+      "horario": "12:00"
     },
     {
       "id": 22,
@@ -280,11 +238,9 @@
       "duracion": "151 min",
       "genero": "Crimen",
       "valoracion": 8.5,
-      "actores_principales": [
-        "Leonardo DiCaprio",
-        "Matt Damon",
-        "Jack Nicholson"
-      ]
+      "actores_principales": ["Leonardo DiCaprio","Matt Damon","Jack Nicholson"],
+      "sala": 3,
+      "horario": "14:30"
     },
     {
       "id": 23,
@@ -293,11 +249,9 @@
       "duracion": "122 min",
       "genero": "Drama",
       "valoracion": 8.4,
-      "actores_principales": [
-        "Joaquin Phoenix",
-        "Robert De Niro",
-        "Zazie Beetz"
-      ]
+      "actores_principales": ["Joaquin Phoenix","Robert De Niro","Zazie Beetz"],
+      "sala": 3,
+      "horario": "17:00"
     },
     {
       "id": 24,
@@ -306,11 +260,9 @@
       "duracion": "181 min",
       "genero": "Acción",
       "valoracion": 8.4,
-      "actores_principales": [
-        "Robert Downey Jr.",
-        "Chris Evans",
-        "Chris Hemsworth"
-      ]
+      "actores_principales": ["Robert Downey Jr.","Chris Evans","Chris Hemsworth"],
+      "sala": 3,
+      "horario": "19:30"
     },
     {
       "id": 25,
@@ -319,11 +271,9 @@
       "duracion": "88 min",
       "genero": "Animación",
       "valoracion": 8.5,
-      "actores_principales": [
-        "Matthew Broderick",
-        "Jeremy Irons",
-        "James Earl Jones"
-      ]
+      "actores_principales": ["Matthew Broderick","Jeremy Irons","James Earl Jones"],
+      "sala": 3,
+      "horario": "22:00"
     },
     {
       "id": 26,
@@ -332,11 +282,9 @@
       "duracion": "150 min",
       "genero": "Drama",
       "valoracion": 8.5,
-      "actores_principales": [
-        "Adrien Brody",
-        "Thomas Kretschmann",
-        "Emilia Fox"
-      ]
+      "actores_principales": ["Adrien Brody","Thomas Kretschmann","Emilia Fox"],
+      "sala": 3,
+      "horario": "12:00"
     },
     {
       "id": 27,
@@ -345,11 +293,9 @@
       "duracion": "137 min",
       "genero": "Acción",
       "valoracion": 8.6,
-      "actores_principales": [
-        "Arnold Schwarzenegger",
-        "Linda Hamilton",
-        "Edward Furlong"
-      ]
+      "actores_principales": ["Arnold Schwarzenegger","Linda Hamilton","Edward Furlong"],
+      "sala": 3,
+      "horario": "14:30"
     },
     {
       "id": 28,
@@ -358,11 +304,9 @@
       "duracion": "116 min",
       "genero": "Aventura",
       "valoracion": 8.5,
-      "actores_principales": [
-        "Michael J. Fox",
-        "Christopher Lloyd",
-        "Lea Thompson"
-      ]
+      "actores_principales": ["Michael J. Fox","Christopher Lloyd","Lea Thompson"],
+      "sala": 3,
+      "horario": "17:00"
     },
     {
       "id": 29,
@@ -371,11 +315,9 @@
       "duracion": "117 min",
       "genero": "Terror",
       "valoracion": 8.4,
-      "actores_principales": [
-        "Sigourney Weaver",
-        "Tom Skerritt",
-        "Veronica Cartwright"
-      ]
+      "actores_principales": ["Sigourney Weaver","Tom Skerritt","Veronica Cartwright"],
+      "sala": 3,
+      "horario": "19:30"
     },
     {
       "id": 30,
@@ -384,11 +326,9 @@
       "duracion": "201 min",
       "genero": "Fantasía",
       "valoracion": 8.9,
-      "actores_principales": [
-        "Elijah Wood",
-        "Sean Astin",
-        "Viggo Mortensen"
-      ]
+      "actores_principales": ["Elijah Wood","Sean Astin","Viggo Mortensen"],
+      "sala": 3,
+      "horario": "22:00"
     },
     {
       "id": 31,
@@ -397,11 +337,9 @@
       "duracion": "195 min",
       "genero": "Histórica",
       "valoracion": 8.9,
-      "actores_principales": [
-        "Liam Neeson",
-        "Ben Kingsley",
-        "Ralph Fiennes"
-      ]
+      "actores_principales": ["Liam Neeson","Ben Kingsley","Ralph Fiennes"],
+      "sala": 4,
+      "horario": "12:00"
     },
     {
       "id": 32,
@@ -410,11 +348,9 @@
       "duracion": "120 min",
       "genero": "Drama",
       "valoracion": 7.7,
-      "actores_principales": [
-        "Jesse Eisenberg",
-        "Andrew Garfield",
-        "Justin Timberlake"
-      ]
+      "actores_principales": ["Jesse Eisenberg","Andrew Garfield","Justin Timberlake"],
+      "sala": 4,
+      "horario": "14:30"
     },
     {
       "id": 33,
@@ -423,11 +359,9 @@
       "duracion": "138 min",
       "genero": "Suspenso",
       "valoracion": 8.1,
-      "actores_principales": [
-        "Leonardo DiCaprio",
-        "Mark Ruffalo",
-        "Ben Kingsley"
-      ]
+      "actores_principales": ["Leonardo DiCaprio","Mark Ruffalo","Ben Kingsley"],
+      "sala": 4,
+      "horario": "17:00"
     },
     {
       "id": 34,
@@ -436,11 +370,9 @@
       "duracion": "165 min",
       "genero": "Western",
       "valoracion": 8.4,
-      "actores_principales": [
-        "Jamie Foxx",
-        "Christoph Waltz",
-        "Leonardo DiCaprio"
-      ]
+      "actores_principales": ["Jamie Foxx","Christoph Waltz","Leonardo DiCaprio"],
+      "sala": 4,
+      "horario": "19:30"
     },
     {
       "id": 35,
@@ -449,11 +381,9 @@
       "duracion": "180 min",
       "genero": "Biográfica",
       "valoracion": 8.2,
-      "actores_principales": [
-        "Leonardo DiCaprio",
-        "Jonah Hill",
-        "Margot Robbie"
-      ]
+      "actores_principales": ["Leonardo DiCaprio","Jonah Hill","Margot Robbie"],
+      "sala": 4,
+      "horario": "22:00"
     },
     {
       "id": 36,
@@ -462,11 +392,9 @@
       "duracion": "120 min",
       "genero": "Acción",
       "valoracion": 8.1,
-      "actores_principales": [
-        "Tom Hardy",
-        "Charlize Theron",
-        "Nicholas Hoult"
-      ]
+      "actores_principales": ["Tom Hardy","Charlize Theron","Nicholas Hoult"],
+      "sala": 4,
+      "horario": "12:00"
     },
     {
       "id": 37,
@@ -475,11 +403,9 @@
       "duracion": "103 min",
       "genero": "Drama",
       "valoracion": 8.2,
-      "actores_principales": [
-        "Jim Carrey",
-        "Laura Linney",
-        "Ed Harris"
-      ]
+      "actores_principales": ["Jim Carrey","Laura Linney","Ed Harris"],
+      "sala": 4,
+      "horario": "14:30"
     },
     {
       "id": 38,
@@ -488,11 +414,9 @@
       "duracion": "135 min",
       "genero": "Biográfica",
       "valoracion": 8.2,
-      "actores_principales": [
-        "Russell Crowe",
-        "Jennifer Connelly",
-        "Ed Harris"
-      ]
+      "actores_principales": ["Russell Crowe","Jennifer Connelly","Ed Harris"],
+      "sala": 4,
+      "horario": "17:00"
     },
     {
       "id": 39,
@@ -501,11 +425,9 @@
       "duracion": "122 min",
       "genero": "Crimen",
       "valoracion": 8.2,
-      "actores_principales": [
-        "Josh Brolin",
-        "Javier Bardem",
-        "Tommy Lee Jones"
-      ]
+      "actores_principales": ["Josh Brolin","Javier Bardem","Tommy Lee Jones"],
+      "sala": 4,
+      "horario": "19:30"
     },
     {
       "id": 40,
@@ -513,12 +435,10 @@
       "año": 2015,
       "duracion": "156 min",
       "genero": "Aventura",
-      "valoracion": 8.0,
-      "actores_principales": [
-        "Leonardo DiCaprio",
-        "Tom Hardy",
-        "Domhnall Gleeson"
-      ]
+      "valoracion": 8,
+      "actores_principales": ["Leonardo DiCaprio","Tom Hardy","Domhnall Gleeson"],
+      "sala": 4,
+      "horario": "22:00"
     },
     {
       "id": 41,
@@ -526,12 +446,10 @@
       "año": 2017,
       "duracion": "164 min",
       "genero": "Ciencia ficción",
-      "valoracion": 8.0,
-      "actores_principales": [
-        "Ryan Gosling",
-        "Harrison Ford",
-        "Ana de Armas"
-      ]
+      "valoracion": 8,
+      "actores_principales": ["Ryan Gosling","Harrison Ford","Ana de Armas"],
+      "sala": 5,
+      "horario": "12:00"
     },
     {
       "id": 42,
@@ -539,12 +457,10 @@
       "año": 1957,
       "duracion": "96 min",
       "genero": "Drama",
-      "valoracion": 9.0,
-      "actores_principales": [
-        "Henry Fonda",
-        "Lee J. Cobb",
-        "E.G. Marshall"
-      ]
+      "valoracion": 9,
+      "actores_principales": ["Henry Fonda","Lee J. Cobb","E.G. Marshall"],
+      "sala": 5,
+      "horario": "14:30"
     },
     {
       "id": 43,
@@ -553,11 +469,9 @@
       "duracion": "106 min",
       "genero": "Crimen",
       "valoracion": 8.5,
-      "actores_principales": [
-        "Kevin Spacey",
-        "Gabriel Byrne",
-        "Benicio Del Toro"
-      ]
+      "actores_principales": ["Kevin Spacey","Gabriel Byrne","Benicio Del Toro"],
+      "sala": 5,
+      "horario": "17:00"
     },
     {
       "id": 44,
@@ -566,11 +480,9 @@
       "duracion": "126 min",
       "genero": "Drama",
       "valoracion": 8.3,
-      "actores_principales": [
-        "Matt Damon",
-        "Robin Williams",
-        "Ben Affleck"
-      ]
+      "actores_principales": ["Matt Damon","Robin Williams","Ben Affleck"],
+      "sala": 5,
+      "horario": "19:30"
     },
     {
       "id": 45,
@@ -579,11 +491,9 @@
       "duracion": "99 min",
       "genero": "Comedia",
       "valoracion": 8.1,
-      "actores_principales": [
-        "Ralph Fiennes",
-        "Tony Revolori",
-        "Saoirse Ronan"
-      ]
+      "actores_principales": ["Ralph Fiennes","Tony Revolori","Saoirse Ronan"],
+      "sala": 5,
+      "horario": "22:00"
     },
     {
       "id": 46,
@@ -591,12 +501,10 @@
       "año": 2004,
       "duracion": "115 min",
       "genero": "Animación",
-      "valoracion": 8.0,
-      "actores_principales": [
-        "Craig T. Nelson",
-        "Holly Hunter",
-        "Samuel L. Jackson"
-      ]
+      "valoracion": 8,
+      "actores_principales": ["Craig T. Nelson","Holly Hunter","Samuel L. Jackson"],
+      "sala": 5,
+      "horario": "12:00"
     },
     {
       "id": 47,
@@ -605,11 +513,9 @@
       "duracion": "95 min",
       "genero": "Animación",
       "valoracion": 8.1,
-      "actores_principales": [
-        "Amy Poehler",
-        "Phyllis Smith",
-        "Mindy Kaling"
-      ]
+      "actores_principales": ["Amy Poehler","Phyllis Smith","Mindy Kaling"],
+      "sala": 5,
+      "horario": "14:30"
     },
     {
       "id": 48,
@@ -618,11 +524,9 @@
       "duracion": "105 min",
       "genero": "Animación",
       "valoracion": 8.4,
-      "actores_principales": [
-        "Anthony Gonzalez",
-        "Gael García Bernal",
-        "Benjamin Bratt"
-      ]
+      "actores_principales": ["Anthony Gonzalez","Gael García Bernal","Benjamin Bratt"],
+      "sala": 5,
+      "horario": "17:00"
     },
     {
       "id": 49,
@@ -631,11 +535,9 @@
       "duracion": "96 min",
       "genero": "Animación",
       "valoracion": 8.2,
-      "actores_principales": [
-        "Ed Asner",
-        "Christopher Plummer",
-        "Jordan Nagai"
-      ]
+      "actores_principales": ["Ed Asner","Christopher Plummer","Jordan Nagai"],
+      "sala": 5,
+      "horario": "19:30"
     },
     {
       "id": 50,
@@ -644,11 +546,9 @@
       "duracion": "81 min",
       "genero": "Animación",
       "valoracion": 8.3,
-      "actores_principales": [
-        "Tom Hanks",
-        "Tim Allen",
-        "Don Rickles"
-      ]
+      "actores_principales": ["Tom Hanks","Tim Allen","Don Rickles"],
+      "sala": 5,
+      "horario": "22:00"
     },
     {
       "id": 51,
@@ -657,11 +557,9 @@
       "duracion": "103 min",
       "genero": "Animación",
       "valoracion": 8.2,
-      "actores_principales": [
-        "Tom Hanks",
-        "Tim Allen",
-        "Joan Cusack"
-      ]
+      "actores_principales": ["Tom Hanks","Tim Allen","Joan Cusack"],
+      "sala": 6,
+      "horario": "12:00"
     },
     {
       "id": 52,
@@ -670,11 +568,9 @@
       "duracion": "100 min",
       "genero": "Animación",
       "valoracion": 8.1,
-      "actores_principales": [
-        "Albert Brooks",
-        "Ellen DeGeneres",
-        "Alexander Gould"
-      ]
+      "actores_principales": ["Albert Brooks","Ellen DeGeneres","Alexander Gould"],
+      "sala": 6,
+      "horario": "14:30"
     },
     {
       "id": 53,
@@ -683,11 +579,9 @@
       "duracion": "98 min",
       "genero": "Animación",
       "valoracion": 8.4,
-      "actores_principales": [
-        "Ben Burtt",
-        "Elissa Knight",
-        "Jeff Garlin"
-      ]
+      "actores_principales": ["Ben Burtt","Elissa Knight","Jeff Garlin"],
+      "sala": 6,
+      "horario": "17:00"
     },
     {
       "id": 54,
@@ -696,11 +590,9 @@
       "duracion": "92 min",
       "genero": "Animación",
       "valoracion": 8.1,
-      "actores_principales": [
-        "John Goodman",
-        "Billy Crystal",
-        "Steve Buscemi"
-      ]
+      "actores_principales": ["John Goodman","Billy Crystal","Steve Buscemi"],
+      "sala": 6,
+      "horario": "19:30"
     },
     {
       "id": 55,
@@ -709,11 +601,9 @@
       "duracion": "102 min",
       "genero": "Animación",
       "valoracion": 7.4,
-      "actores_principales": [
-        "Idina Menzel",
-        "Kristen Bell",
-        "Jonathan Groff"
-      ]
+      "actores_principales": ["Idina Menzel","Kristen Bell","Jonathan Groff"],
+      "sala": 6,
+      "horario": "22:00"
     },
     {
       "id": 56,
@@ -722,11 +612,9 @@
       "duracion": "107 min",
       "genero": "Animación",
       "valoracion": 7.6,
-      "actores_principales": [
-        "Auli'i Cravalho",
-        "Dwayne Johnson",
-        "Temuera Morrison"
-      ]
+      "actores_principales": ["Auli'i Cravalho","Dwayne Johnson","Temuera Morrison"],
+      "sala": 6,
+      "horario": "12:00"
     },
     {
       "id": 57,
@@ -735,11 +623,9 @@
       "duracion": "102 min",
       "genero": "Animación",
       "valoracion": 7.2,
-      "actores_principales": [
-        "Stephanie Beatriz",
-        "María Cecilia Botero",
-        "John Leguizamo"
-      ]
+      "actores_principales": ["Stephanie Beatriz","María Cecilia Botero","John Leguizamo"],
+      "sala": 6,
+      "horario": "14:30"
     },
     {
       "id": 58,
@@ -748,11 +634,9 @@
       "duracion": "125 min",
       "genero": "Animación",
       "valoracion": 8.6,
-      "actores_principales": [
-        "Rumi Hiiragi",
-        "Miyu Irino",
-        "Mari Natsuki"
-      ]
+      "actores_principales": ["Rumi Hiiragi","Miyu Irino","Mari Natsuki"],
+      "sala": 6,
+      "horario": "17:00"
     },
     {
       "id": 59,
@@ -761,11 +645,9 @@
       "duracion": "134 min",
       "genero": "Animación",
       "valoracion": 8.4,
-      "actores_principales": [
-        "Yōji Matsuda",
-        "Yuriko Ishida",
-        "Yūko Tanaka"
-      ]
+      "actores_principales": ["Yōji Matsuda","Yuriko Ishida","Yūko Tanaka"],
+      "sala": 6,
+      "horario": "19:30"
     },
     {
       "id": 60,
@@ -774,11 +656,9 @@
       "duracion": "86 min",
       "genero": "Animación",
       "valoracion": 8.1,
-      "actores_principales": [
-        "Noriko Hidaka",
-        "Chika Sakamoto",
-        "Hitoshi Takagi"
-      ]
+      "actores_principales": ["Noriko Hidaka","Chika Sakamoto","Hitoshi Takagi"],
+      "sala": 6,
+      "horario": "22:00"
     },
     {
       "id": 61,
@@ -787,11 +667,9 @@
       "duracion": "119 min",
       "genero": "Animación",
       "valoracion": 8.2,
-      "actores_principales": [
-        "Chieko Baisho",
-        "Takuya Kimura",
-        "Akihiro Miwa"
-      ]
+      "actores_principales": ["Chieko Baisho","Takuya Kimura","Akihiro Miwa"],
+      "sala": 7,
+      "horario": "12:00"
     },
     {
       "id": 62,
@@ -800,11 +678,9 @@
       "duracion": "106 min",
       "genero": "Animación",
       "valoracion": 8.4,
-      "actores_principales": [
-        "Ryunosuke Kamiki",
-        "Mone Kamishiraishi",
-        "Ryo Narita"
-      ]
+      "actores_principales": ["Ryunosuke Kamiki","Mone Kamishiraishi","Ryo Narita"],
+      "sala": 7,
+      "horario": "14:30"
     },
     {
       "id": 63,
@@ -812,12 +688,10 @@
       "año": 1988,
       "duracion": "124 min",
       "genero": "Animación",
-      "valoracion": 8.0,
-      "actores_principales": [
-        "Mitsuo Iwata",
-        "Nozomu Sasaki",
-        "Mami Koyama"
-      ]
+      "valoracion": 8,
+      "actores_principales": ["Mitsuo Iwata","Nozomu Sasaki","Mami Koyama"],
+      "sala": 7,
+      "horario": "17:00"
     },
     {
       "id": 64,
@@ -826,11 +700,9 @@
       "duracion": "83 min",
       "genero": "Animación",
       "valoracion": 7.9,
-      "actores_principales": [
-        "Atsuko Tanaka",
-        "Akio Ōtsuka",
-        "Iemasa Kayumi"
-      ]
+      "actores_principales": ["Atsuko Tanaka","Akio Ōtsuka","Iemasa Kayumi"],
+      "sala": 7,
+      "horario": "19:30"
     },
     {
       "id": 65,
@@ -838,12 +710,10 @@
       "año": 1999,
       "duracion": "86 min",
       "genero": "Animación",
-      "valoracion": 8.0,
-      "actores_principales": [
-        "Eli Marienthal",
-        "Vin Diesel",
-        "Jennifer Aniston"
-      ]
+      "valoracion": 8,
+      "actores_principales": ["Eli Marienthal","Vin Diesel","Jennifer Aniston"],
+      "sala": 7,
+      "horario": "22:00"
     },
     {
       "id": 66,
@@ -852,11 +722,9 @@
       "duracion": "100 min",
       "genero": "Animación",
       "valoracion": 7.7,
-      "actores_principales": [
-        "Chris Pratt",
-        "Elizabeth Banks",
-        "Will Arnett"
-      ]
+      "actores_principales": ["Chris Pratt","Elizabeth Banks","Will Arnett"],
+      "sala": 7,
+      "horario": "12:00"
     },
     {
       "id": 67,
@@ -864,12 +732,10 @@
       "año": 2016,
       "duracion": "108 min",
       "genero": "Animación",
-      "valoracion": 8.0,
-      "actores_principales": [
-        "Ginnifer Goodwin",
-        "Jason Bateman",
-        "Idris Elba"
-      ]
+      "valoracion": 8,
+      "actores_principales": ["Ginnifer Goodwin","Jason Bateman","Idris Elba"],
+      "sala": 7,
+      "horario": "14:30"
     },
     {
       "id": 68,
@@ -878,11 +744,9 @@
       "duracion": "102 min",
       "genero": "Animación",
       "valoracion": 7.8,
-      "actores_principales": [
-        "Ryan Potter",
-        "Scott Adsit",
-        "Jamie Chung"
-      ]
+      "actores_principales": ["Ryan Potter","Scott Adsit","Jamie Chung"],
+      "sala": 7,
+      "horario": "17:00"
     },
     {
       "id": 69,
@@ -890,12 +754,10 @@
       "año": 2007,
       "duracion": "111 min",
       "genero": "Animación",
-      "valoracion": 8.0,
-      "actores_principales": [
-        "Patton Oswalt",
-        "Lou Romano",
-        "Ian Holm"
-      ]
+      "valoracion": 8,
+      "actores_principales": ["Patton Oswalt","Lou Romano","Ian Holm"],
+      "sala": 7,
+      "horario": "19:30"
     },
     {
       "id": 70,
@@ -904,11 +766,9 @@
       "duracion": "117 min",
       "genero": "Animación",
       "valoracion": 7.2,
-      "actores_principales": [
-        "Owen Wilson",
-        "Paul Newman",
-        "Bonnie Hunt"
-      ]
+      "actores_principales": ["Owen Wilson","Paul Newman","Bonnie Hunt"],
+      "sala": 7,
+      "horario": "22:00"
     },
     {
       "id": 71,
@@ -917,11 +777,9 @@
       "duracion": "90 min",
       "genero": "Animación",
       "valoracion": 7.9,
-      "actores_principales": [
-        "Mike Myers",
-        "Eddie Murphy",
-        "Cameron Diaz"
-      ]
+      "actores_principales": ["Mike Myers","Eddie Murphy","Cameron Diaz"],
+      "sala": 8,
+      "horario": "12:00"
     },
     {
       "id": 72,
@@ -930,11 +788,9 @@
       "duracion": "92 min",
       "genero": "Animación",
       "valoracion": 7.6,
-      "actores_principales": [
-        "Jack Black",
-        "Dustin Hoffman",
-        "Angelina Jolie"
-      ]
+      "actores_principales": ["Jack Black","Dustin Hoffman","Angelina Jolie"],
+      "sala": 8,
+      "horario": "14:30"
     },
     {
       "id": 73,
@@ -943,11 +799,9 @@
       "duracion": "95 min",
       "genero": "Animación",
       "valoracion": 7.3,
-      "actores_principales": [
-        "Will Ferrell",
-        "Tina Fey",
-        "Jonah Hill"
-      ]
+      "actores_principales": ["Will Ferrell","Tina Fey","Jonah Hill"],
+      "sala": 8,
+      "horario": "17:00"
     },
     {
       "id": 74,
@@ -956,11 +810,9 @@
       "duracion": "95 min",
       "genero": "Animación",
       "valoracion": 7.6,
-      "actores_principales": [
-        "Steve Carell",
-        "Jason Segel",
-        "Miranda Cosgrove"
-      ]
+      "actores_principales": ["Steve Carell","Jason Segel","Miranda Cosgrove"],
+      "sala": 8,
+      "horario": "19:30"
     },
     {
       "id": 75,
@@ -969,11 +821,9 @@
       "duracion": "91 min",
       "genero": "Animación",
       "valoracion": 6.4,
-      "actores_principales": [
-        "Sandra Bullock",
-        "Jon Hamm",
-        "Pierre Coffin"
-      ]
+      "actores_principales": ["Sandra Bullock","Jon Hamm","Pierre Coffin"],
+      "sala": 8,
+      "horario": "22:00"
     },
     {
       "id": 76,
@@ -982,11 +832,9 @@
       "duracion": "87 min",
       "genero": "Animación",
       "valoracion": 6.5,
-      "actores_principales": [
-        "Louis C.K.",
-        "Eric Stonestreet",
-        "Kevin Hart"
-      ]
+      "actores_principales": ["Louis C.K.","Eric Stonestreet","Kevin Hart"],
+      "sala": 8,
+      "horario": "12:00"
     },
     {
       "id": 77,
@@ -995,11 +843,9 @@
       "duracion": "108 min",
       "genero": "Animación",
       "valoracion": 7.1,
-      "actores_principales": [
-        "Matthew McConaughey",
-        "Reese Witherspoon",
-        "Scarlett Johansson"
-      ]
+      "actores_principales": ["Matthew McConaughey","Reese Witherspoon","Scarlett Johansson"],
+      "sala": 8,
+      "horario": "14:30"
     },
     {
       "id": 78,
@@ -1008,11 +854,9 @@
       "duracion": "113 min",
       "genero": "Animación",
       "valoracion": 7.7,
-      "actores_principales": [
-        "Abbi Jacobson",
-        "Danny McBride",
-        "Maya Rudolph"
-      ]
+      "actores_principales": ["Abbi Jacobson","Danny McBride","Maya Rudolph"],
+      "sala": 8,
+      "horario": "17:00"
     },
     {
       "id": 79,
@@ -1021,11 +865,9 @@
       "duracion": "139 min",
       "genero": "Ciencia ficción",
       "valoracion": 7.9,
-      "actores_principales": [
-        "Michelle Yeoh",
-        "Ke Huy Quan",
-        "Stephanie Hsu"
-      ]
+      "actores_principales": ["Michelle Yeoh","Ke Huy Quan","Stephanie Hsu"],
+      "sala": 8,
+      "horario": "19:30"
     },
     {
       "id": 80,
@@ -1034,11 +876,9 @@
       "duracion": "180 min",
       "genero": "Biográfica",
       "valoracion": 8.6,
-      "actores_principales": [
-        "Cillian Murphy",
-        "Emily Blunt",
-        "Robert Downey Jr."
-      ]
+      "actores_principales": ["Cillian Murphy","Emily Blunt","Robert Downey Jr."],
+      "sala": 8,
+      "horario": "22:00"
     },
     {
       "id": 81,
@@ -1046,12 +886,10 @@
       "año": 2023,
       "duracion": "114 min",
       "genero": "Comedia",
-      "valoracion": 7.0,
-      "actores_principales": [
-        "Margot Robbie",
-        "Ryan Gosling",
-        "America Ferrera"
-      ]
+      "valoracion": 7,
+      "actores_principales": ["Margot Robbie","Ryan Gosling","America Ferrera"],
+      "sala": 9,
+      "horario": "12:00"
     },
     {
       "id": 82,
@@ -1059,12 +897,10 @@
       "año": 2021,
       "duracion": "155 min",
       "genero": "Ciencia ficción",
-      "valoracion": 8.0,
-      "actores_principales": [
-        "Timothée Chalamet",
-        "Rebecca Ferguson",
-        "Oscar Isaac"
-      ]
+      "valoracion": 8,
+      "actores_principales": ["Timothée Chalamet","Rebecca Ferguson","Oscar Isaac"],
+      "sala": 9,
+      "horario": "14:30"
     },
     {
       "id": 83,
@@ -1073,11 +909,9 @@
       "duracion": "150 min",
       "genero": "Acción",
       "valoracion": 7.3,
-      "actores_principales": [
-        "John David Washington",
-        "Robert Pattinson",
-        "Elizabeth Debicki"
-      ]
+      "actores_principales": ["John David Washington","Robert Pattinson","Elizabeth Debicki"],
+      "sala": 9,
+      "horario": "17:00"
     },
     {
       "id": 84,
@@ -1086,11 +920,9 @@
       "duracion": "176 min",
       "genero": "Acción",
       "valoracion": 7.8,
-      "actores_principales": [
-        "Robert Pattinson",
-        "Zoë Kravitz",
-        "Paul Dano"
-      ]
+      "actores_principales": ["Robert Pattinson","Zoë Kravitz","Paul Dano"],
+      "sala": 9,
+      "horario": "19:30"
     },
     {
       "id": 85,
@@ -1099,11 +931,9 @@
       "duracion": "148 min",
       "genero": "Acción",
       "valoracion": 8.2,
-      "actores_principales": [
-        "Tom Holland",
-        "Zendaya",
-        "Benedict Cumberbatch"
-      ]
+      "actores_principales": ["Tom Holland","Zendaya","Benedict Cumberbatch"],
+      "sala": 9,
+      "horario": "22:00"
     },
     {
       "id": 86,
@@ -1112,11 +942,9 @@
       "duracion": "115 min",
       "genero": "Acción",
       "valoracion": 7.5,
-      "actores_principales": [
-        "Benedict Cumberbatch",
-        "Chiwetel Ejiofor",
-        "Rachel McAdams"
-      ]
+      "actores_principales": ["Benedict Cumberbatch","Chiwetel Ejiofor","Rachel McAdams"],
+      "sala": 9,
+      "horario": "12:00"
     },
     {
       "id": 87,
@@ -1125,11 +953,9 @@
       "duracion": "126 min",
       "genero": "Acción",
       "valoracion": 7.9,
-      "actores_principales": [
-        "Robert Downey Jr.",
-        "Gwyneth Paltrow",
-        "Terrence Howard"
-      ]
+      "actores_principales": ["Robert Downey Jr.","Gwyneth Paltrow","Terrence Howard"],
+      "sala": 9,
+      "horario": "14:30"
     },
     {
       "id": 88,
@@ -1138,11 +964,9 @@
       "duracion": "147 min",
       "genero": "Acción",
       "valoracion": 7.8,
-      "actores_principales": [
-        "Chris Evans",
-        "Robert Downey Jr.",
-        "Scarlett Johansson"
-      ]
+      "actores_principales": ["Chris Evans","Robert Downey Jr.","Scarlett Johansson"],
+      "sala": 9,
+      "horario": "17:00"
     },
     {
       "id": 89,
@@ -1150,12 +974,10 @@
       "año": 2014,
       "duracion": "121 min",
       "genero": "Acción",
-      "valoracion": 8.0,
-      "actores_principales": [
-        "Chris Pratt",
-        "Zoe Saldana",
-        "Dave Bautista"
-      ]
+      "valoracion": 8,
+      "actores_principales": ["Chris Pratt","Zoe Saldana","Dave Bautista"],
+      "sala": 9,
+      "horario": "19:30"
     },
     {
       "id": 90,
@@ -1164,11 +986,9 @@
       "duracion": "134 min",
       "genero": "Acción",
       "valoracion": 7.3,
-      "actores_principales": [
-        "Chadwick Boseman",
-        "Michael B. Jordan",
-        "Lupita Nyong'o"
-      ]
+      "actores_principales": ["Chadwick Boseman","Michael B. Jordan","Lupita Nyong'o"],
+      "sala": 9,
+      "horario": "22:00"
     },
     {
       "id": 91,
@@ -1177,11 +997,9 @@
       "duracion": "130 min",
       "genero": "Acción",
       "valoracion": 7.9,
-      "actores_principales": [
-        "Chris Hemsworth",
-        "Tom Hiddleston",
-        "Cate Blanchett"
-      ]
+      "actores_principales": ["Chris Hemsworth","Tom Hiddleston","Cate Blanchett"],
+      "sala": 10,
+      "horario": "12:00"
     },
     {
       "id": 92,
@@ -1190,11 +1008,9 @@
       "duracion": "117 min",
       "genero": "Acción",
       "valoracion": 7.3,
-      "actores_principales": [
-        "Paul Rudd",
-        "Evangeline Lilly",
-        "Michael Douglas"
-      ]
+      "actores_principales": ["Paul Rudd","Evangeline Lilly","Michael Douglas"],
+      "sala": 10,
+      "horario": "14:30"
     },
     {
       "id": 93,
@@ -1202,12 +1018,10 @@
       "año": 2016,
       "duracion": "108 min",
       "genero": "Acción",
-      "valoracion": 8.0,
-      "actores_principales": [
-        "Ryan Reynolds",
-        "Morena Baccarin",
-        "T.J. Miller"
-      ]
+      "valoracion": 8,
+      "actores_principales": ["Ryan Reynolds","Morena Baccarin","T.J. Miller"],
+      "sala": 10,
+      "horario": "17:00"
     },
     {
       "id": 94,
@@ -1216,11 +1030,9 @@
       "duracion": "137 min",
       "genero": "Acción",
       "valoracion": 8.1,
-      "actores_principales": [
-        "Hugh Jackman",
-        "Patrick Stewart",
-        "Dafne Keen"
-      ]
+      "actores_principales": ["Hugh Jackman","Patrick Stewart","Dafne Keen"],
+      "sala": 10,
+      "horario": "19:30"
     },
     {
       "id": 95,
@@ -1229,11 +1041,9 @@
       "duracion": "132 min",
       "genero": "Acción",
       "valoracion": 7.9,
-      "actores_principales": [
-        "Hugh Jackman",
-        "James McAvoy",
-        "Michael Fassbender"
-      ]
+      "actores_principales": ["Hugh Jackman","James McAvoy","Michael Fassbender"],
+      "sala": 10,
+      "horario": "22:00"
     },
     {
       "id": 96,
@@ -1242,11 +1052,9 @@
       "duracion": "136 min",
       "genero": "Acción",
       "valoracion": 6.9,
-      "actores_principales": [
-        "Andrew Garfield",
-        "Emma Stone",
-        "Rhys Ifans"
-      ]
+      "actores_principales": ["Andrew Garfield","Emma Stone","Rhys Ifans"],
+      "sala": 10,
+      "horario": "12:00"
     },
     {
       "id": 97,
@@ -1254,12 +1062,10 @@
       "año": 2013,
       "duracion": "143 min",
       "genero": "Acción",
-      "valoracion": 7.0,
-      "actores_principales": [
-        "Henry Cavill",
-        "Amy Adams",
-        "Michael Shannon"
-      ]
+      "valoracion": 7,
+      "actores_principales": ["Henry Cavill","Amy Adams","Michael Shannon"],
+      "sala": 10,
+      "horario": "14:30"
     },
     {
       "id": 98,
@@ -1268,11 +1074,9 @@
       "duracion": "141 min",
       "genero": "Acción",
       "valoracion": 7.4,
-      "actores_principales": [
-        "Gal Gadot",
-        "Chris Pine",
-        "Robin Wright"
-      ]
+      "actores_principales": ["Gal Gadot","Chris Pine","Robin Wright"],
+      "sala": 10,
+      "horario": "17:00"
     },
     {
       "id": 99,
@@ -1281,11 +1085,9 @@
       "duracion": "143 min",
       "genero": "Acción",
       "valoracion": 6.8,
-      "actores_principales": [
-        "Jason Momoa",
-        "Amber Heard",
-        "Patrick Wilson"
-      ]
+      "actores_principales": ["Jason Momoa","Amber Heard","Patrick Wilson"],
+      "sala": 10,
+      "horario": "19:30"
     },
     {
       "id": 100,
@@ -1294,11 +1096,9 @@
       "duracion": "120 min",
       "genero": "Acción",
       "valoracion": 6.1,
-      "actores_principales": [
-        "Ben Affleck",
-        "Henry Cavill",
-        "Gal Gadot"
-      ]
+      "actores_principales": ["Ben Affleck","Henry Cavill","Gal Gadot"],
+      "sala": 10,
+      "horario": "22:00"
     }
   ]
 }
