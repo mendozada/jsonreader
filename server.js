@@ -67,6 +67,24 @@ app.get('/data', (req, res) => {
   });
 });
 
+app.get('/ingredientes', (req, res) => {
+   const filePath = path.join(__dirname, 'ingredientes.json');
+
+  fs.readFile(filePath, 'utf8', (err, data) => {
+    if (err) {
+      console.error('Error al leer el archivo JSON:', err);
+      return res.status(500).json({ error: 'No se pudo leer el archivo JSON' });
+    }
+
+    try {
+      const jsonData = JSON.parse(data);
+      res.json(jsonData);
+    } catch (parseError) {
+      console.error('Error al parsear JSON:', parseError);
+      res.status(500).json({ error: 'Archivo JSON inválido' });
+    }
+  });
+});
 
 
 // ====== Iniciar servidor ======
