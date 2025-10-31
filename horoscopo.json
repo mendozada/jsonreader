@@ -1,0 +1,96 @@
+[
+  {
+    "nombre": "Aries",
+    "fecha_inicio": "21-03",
+    "fecha_fin": "19-04",
+    "elemento": "Fuego",
+    "regente": "Marte",
+    "personalidad": "Apasionado, líder, optimista, impulsivo"
+  },
+  {
+    "nombre": "Tauro",
+    "fecha_inicio": "20-04",
+    "fecha_fin": "20-05",
+    "elemento": "Tierra",
+    "regente": "Venus",
+    "personalidad": "Práctico, perseverante, sensual"
+  },
+  {
+    "nombre": "Géminis",
+    "fecha_inicio": "21-05",
+    "fecha_fin": "20-06",
+    "elemento": "Aire",
+    "regente": "Mercurio",
+    "personalidad": "Curioso, sociable, comunicativo, cambiante"
+  },
+  {
+    "nombre": "Cáncer",
+    "fecha_inicio": "21-06",
+    "fecha_fin": "22-07",
+    "elemento": "Agua",
+    "regente": "Luna",
+    "personalidad": "Sensible, emotivo, protector"
+  },
+  {
+    "nombre": "Leo",
+    "fecha_inicio": "23-07",
+    "fecha_fin": "22-08",
+    "elemento": "Fuego",
+    "regente": "Sol",
+    "personalidad": "Creativo, generoso, leal"
+  },
+  {
+    "nombre": "Virgo",
+    "fecha_inicio": "23-08",
+    "fecha_fin": "22-09",
+    "elemento": "Tierra",
+    "regente": "Mercurio",
+    "personalidad": "Práctico, ordenado, laborioso"
+  },
+  {
+    "nombre": "Libra",
+    "fecha_inicio": "23-09",
+    "fecha_fin": "22-10",
+    "elemento": "Aire",
+    "regente": "Venus",
+    "personalidad": "Amable, conciliador, estético"
+  },
+  {
+    "nombre": "Escorpio",
+    "fecha_inicio": "23-10",
+    "fecha_fin": "21-11",
+    "elemento": "Agua",
+    "regente": "Marte, Plutón",
+    "personalidad": "Intenso, determinado, resistente"
+  },
+  {
+    "nombre": "Sagitario",
+    "fecha_inicio": "22-11",
+    "fecha_fin": "21-12",
+    "elemento": "Fuego",
+    "regente": "Júpiter",
+    "personalidad": "Viajero, optimista, filósofo"
+  },
+  {
+    "nombre": "Capricornio",
+    "fecha_inicio": "22-12",
+    "fecha_fin": "19-01",
+    "elemento": "Tierra",
+    "regente": "Saturno",
+    "personalidad": "Responsable, ambicioso, maduro"
+  },
+  {
+    "nombre": "Acuario",
+    "fecha_inicio": "20-01",
+    "fecha_fin": "18-02",
+    "elemento": "Aire",
+    "regente": "Saturno, Urano",
+    "personalidad": "Humanista, revolucionario, rebelde"
+  },
+  {
+    "nombre": "Piscis",
+    "fecha_inicio": "19-02",
+    "fecha_fin": "20-03",
+    "elemento": "Agua"
+}
+]
